@@ -221,7 +221,7 @@ $initials = static function (string $name): string {
                     </tbody>
                 </table>
             </div>
-            <p class="table-footnote">Исходные записи читаются из <code>data/employees.csv</code>.</p>
+            <p class="table-footnote">Исходные записи читаются из <code>employees.csv</code>.</p>
         </section>
     </div>
 
